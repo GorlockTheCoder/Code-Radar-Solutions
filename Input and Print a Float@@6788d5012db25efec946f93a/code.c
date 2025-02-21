@@ -1,3 +1,3 @@
 // Your code here...
 scanf("%d", &n)
-printf("You entered: ", n)
+printf( "%d", n)
