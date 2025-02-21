@@ -1,3 +1,7 @@
 // Your code here...
-scanf("%d", &n)
-printf( "%d", n)
+#include <stdio.h>
+int main(){
+scanf("%d", &n);
+printf( "%d", n);
+return 0;
+}
